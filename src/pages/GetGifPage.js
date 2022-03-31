@@ -1,0 +1,1 @@
+import React from 'react';import {Container} from "@mui/material";import GetGif from "../components/GetGif";const GetGifPage = () => {    return (        <Container maxWidth='xl'>            <GetGif/>        </Container>);};export default GetGifPage;
